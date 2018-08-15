@@ -10,5 +10,6 @@ Front-End: [
 Backend: [
   Express,
   GraphQL,
-  Postgres
+  Postgres,
+  Socket.io
 ]
