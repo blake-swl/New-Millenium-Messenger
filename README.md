@@ -11,5 +11,6 @@ Backend: [
   Express,
   GraphQL,
   Postgres,
-  Socket.io
+  Socket.io,
+  bcrypt
 ]
